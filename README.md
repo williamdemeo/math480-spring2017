@@ -14,6 +14,13 @@ If you have questions, comments, or suggestions, please open a [New Issue](https
 
 The url for this page is https://github.com/williamdemeo/math480-spring2017
 
+## Online Questions and Discussion
+We will use Piazza for all online discussions related to this course.  Our
+Piazza url https://piazza.com/hawaii/spring2017/math480/home 
+
+Students will receive an email during the first week of classes with an
+invitation to join our Piazza site.
+
 
 ## General Expectations
 The Department of Mathematics has a [general expectations statement](http://www.math.hawaii.edu/~dale/Expectations.html), which we will follow in this class.
