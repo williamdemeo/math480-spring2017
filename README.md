@@ -71,8 +71,25 @@ Every student prepares and delivers a 10 minute talk on his/her favorite theorem
   on his/her choice.
 
 Students should ask the instructor for some guidance when choosing a topic. 
-As a start, here are some very broad areas. Students should focus on a small
-special part of one of these areas.
+As a start, below is a list of [suggested topic areas](#suggested-topic-areas). 
+Students are advised to focus on a small, special part of one of the areas.
+
+
++ **Medium length mathematical presentations.** Every student prepares and
+delivers a 20 minute talk which is supposed to be an expanded version of one of
+his/her previous short mathematical presentations.
+
++ **Write-up** Finally, the medium length presentation must be written up as a
+mathematical paper using the LaTeX document preparation system,
+and distributed by the student using github and soliciting feedback from at
+least one other student.
+
+Besides the above, there will be some presentations, both mathematical and
+industry-related, given by invited professionals.
+
+Assessment exam will be given towards the end of the semester as a part of the classwork.
+
+## Suggested Topic Areas
 
 + set theory 
 + logic or proof theory
@@ -89,17 +106,3 @@ special part of one of these areas.
 + lambda calculus or type theory
 
 See [mathscinet](http://www.ams.org/mathscinet/msc/msc2010.html) for more ideas.
-
-+ **Medium length mathematical presentations.** Every student prepares and
-delivers a 20 minute talk which is supposed to be an expanded version of one of
-his/her previous short mathematical presentations.
-
-+ **Write-up** Finally, the medium length presentation must be written up as a
-mathematical paper using the LaTeX document preparation system,
-and distributed by the student using github and soliciting feedback from at
-least one other student.
-
-Besides the above, there will be some presentations, both mathematical and
-industry-related, given by invited professionals.
-
-Assessment exam will be given towards the end of the semester as a part of the classwork.
