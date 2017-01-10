@@ -10,7 +10,7 @@ Math 480,  Senior Seminar, Spring 2017
 
 This is the main repository and webpage for William DeMeo's section of Math 480.
 
-If you have questions, comments, or suggestions, please open a [New Issue].
+If you have questions, comments, or suggestions, please open a [New Issue](https://github.com/williamdemeo/math480-spring2017/issues/new).
 
 The url for this page is https://github.com/williamdemeo/math480-spring2017
 
@@ -34,10 +34,8 @@ and other proprietary presentation making software. While those who use them may
 achieve quite impressive outcomes, I cannot be of any assistance with these
 technologies.)
 
-For instructions on LaTeX beamer class, see, for instance,  
-+ https://www.sharelatex.com/blog/2013/08/13/beamer-series-pt1.html,
-+ http://www2.informatik.uni-freiburg.de/~frank/ENG/latex-course/latex-course-3/latex-course-3_en.html
-and many other websites.
+Plenty of information about the technologies used in this class, such as
+LaTeX and Github, will be provided to the students once the class begins.
 
 This is a **mathematics** class which is designated to have an **oral focus**. 
 As a consequence, various types of oral mathematical presentations is a  subject
