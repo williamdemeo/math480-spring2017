@@ -5,7 +5,7 @@ Math 480,  Senior Seminar, Spring 2017
 **Email:** [williamdemeo at gmail](mailto:williamdemeo@gmail.com?subject=MATH
 480: (insert an informative subject line))  
 **Office:** Physical Sciences Building (PSB) 402.  
-**Office hours:** TBD  
+**Office hours:** Tuesdays 12--1 & 3--4; Thursdays 12--1.  
 **Lecture times and locations:** Mondays, Thursdays 3--3:50pm, Keller 402
 
 This is the main repository and webpage for William DeMeo's section of Math 480.
