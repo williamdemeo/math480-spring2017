@@ -1,3 +1,11 @@
+**PLEASE NOTE** As of January 19, 2017, the Github site for Math 480 has move to
+
+https://github.com/math480/math480-spring2017
+
+The information below may be out-of-date.  It will likely be deleted soon.
+
+
+
 Math 480,  Senior Seminar, Spring 2017
 ========================================
 
